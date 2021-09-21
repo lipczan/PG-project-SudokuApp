@@ -1,2 +1,2 @@
-# PG-project-SudokuApp
+# MySudoku
 Simple Sudoku game
